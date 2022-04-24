@@ -10,13 +10,19 @@ Aggrey Odinga
 Follow the following setup instructions to run the program.
 
 -Install the java software development kit (sdk)
+
 -Install java
+
 -Install gradle
+
 -To run the program in the terminal you can use 'gradle run' command.
 
 ### Technologies Used
+
 -Intelli J IDEA
+
 -java
+
 -Git
 
 #### Known Bugs
